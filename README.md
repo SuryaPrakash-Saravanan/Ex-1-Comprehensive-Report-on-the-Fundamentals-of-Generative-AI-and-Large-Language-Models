@@ -103,7 +103,8 @@ Evolution of Artificial Intelligence
 
 The evolution of AI began with the proposal of the Turing Test in 1950, which aimed to measure machine intelligence. The Dartmouth Conference in 1956 officially marked the birth of AI as a research field. During the 1980s, expert systems gained popularity for rule-based reasoning. In 2012, deep learning breakthroughs revolutionized AI performance. The introduction of the Transformer architecture in 2017 significantly advanced natural language processing. Recent developments like GPT-4 and multimodal systems represent the current stage of AI innovation.
 
-<img width="1536" height="1024" alt="image 1" src="https://github.com/user-attachments/assets/e5b62bf0-2483-4784-b6ad-8e8992ffc932" />
+<img width="1536" height="1024" alt="image 2" src="https://github.com/user-attachments/assets/5ca25f0b-076c-48aa-9da7-a194ddc2e375" />
+
 
 
 Applications of Generative AI
